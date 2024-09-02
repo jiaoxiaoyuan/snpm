@@ -77,3 +77,9 @@ Commands:
 
   help [command]  display help for command
 
+
+开源地址
+```bash
+https://gitee.com/NativeBase/snpm.git
+https://github.com/jiaoxiaoyuan/snpm.git
+```
